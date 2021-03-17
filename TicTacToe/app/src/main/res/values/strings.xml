@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="play">PLAY</string>
+    <string name="player_x">Player X</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="player_o">Player O</string>
+    <string name="yes" />
+    <string name="yes1" />
+    <string name="yes2" />
+    <string name="yes3" />
+    <string name="yes4" />
+    <string name="yes5" />
+    <string name="yes6" />
+    <string name="yes8" />
+    <string name="yes9" />
+</resources>
